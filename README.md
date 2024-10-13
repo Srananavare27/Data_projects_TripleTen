@@ -1,7 +1,7 @@
 TripleTen_projects
-Projects I worked on while attending the Business Intelligence Analytics TripleTen Bootcamp.| Column 1 | Column 2 | Column 3 |
-|Project number|Title|Description|
-| 1 | Row 1, Col 2 | Row 1, Col 3 |
-| 2| Row 2, Col 2 | Row 2, Col 3 |
-| 3 | Row 3, Col 2 | Row 3, Col 3 |
-| 4 | Row 3, Col 2 | Row 3, Col 3 |
+Projects I worked on while attending the Business Intelligence Analytics TripleTen Bootcamp.| Column 1 | Column 2 | Colu
+Project number	Title	Description
+1	Norbu stress control	The project task was to analyze user data and find possible causes for the company’s low CR and retention rate.
+2	Instacart	The project task was to prepare a report that gives insight into the shopping habits of Instacart customers
+3	A/A/B Test Analysis	The project task was to study the sales funnel and analyze the results of an A/B test for a food startup.
+4	Machine Learning Customer Interaction Strategies	The project task was to help a chain of fitness clubs develop a customer retention strategy.
