@@ -1,7 +1,8 @@
 TripleTen_projects
-Projects I worked on while attending the Business Intelligence Analytics TripleTen Bootcamp.| Column 1 | Column 2 | Colu
-Project number	Title	Description
-1	Norbu stress control	The project task was to analyze user data and find possible causes for the company’s low CR and retention rate.
-2	Instacart	The project task was to prepare a report that gives insight into the shopping habits of Instacart customers
-3	A/A/B Test Analysis	The project task was to study the sales funnel and analyze the results of an A/B test for a food startup.
-4	Machine Learning Customer Interaction Strategies	The project task was to help a chain of fitness clubs develop a customer retention strategy.
+Projects I worked on while attending the Business Intelligence Analytics TripleTen Bootcamp.
+| Project Number | Title                                                   | Description                                                                                                                       |
+|----------------|---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 1              | Rental Property Data Analysis in Google Sheets           | Analyzed rental property data, identified patterns in popular neighborhoods and active properties, estimated revenue potential, and communicated results through an executive summary.                                                                                                            |
+| 2              | E-commerce Transaction Analysis in Google Sheets         | Analyzed raw transaction logs to assess user behavior and conversion rates, built a conversion funnel, calculated retention rates, and organized findings into a professional report.                                                                                   |
+| 3              | SuperStore Profitability and Operational Analysis        | Conducted a profitability analysis, identifying key profit centers and loss-makers, developed optimized ad strategies, and analyzed return rates using Tableau.                                                                                              |
+| 4              | SuperStore Returned Orders Analysis and Tableau Dashboard | Analyzed the root causes of returned orders, visualized return rates across categories, developed a Tableau dashboard, and proposed solutions to reduce returns.                                                                                             |
