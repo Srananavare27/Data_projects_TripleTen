@@ -1,0 +1,74 @@
+Project Title
+The analysis of the Superstore's operations to increase the profitability to avoid bankruptcy 
+
+For detailed visualizations and further analysis, please refer to the [Tableau Public dashboard](link)
+https://public.tableau.com/views/Sprint4-Project-ShilaRananavare/ProfitsLossesbyRegion?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Project Summary
+Overview
+The analysis reveals key insights into the profitability, loss, and performance metrics of various products and subcategories across different regions and states. 
+The following summary highlights the critical findings and recommendations for optimizing the store’s strategy.
+
+Profit and Loss Analysis
+
+Top Profit Makers:
+Copiers in the West: $35,293
+Chairs in the East: $22,827
+
+Top Loss Makers:
+Binders in Central: -$20,585
+Tables in the East: -$12,073
+
+Recommendation: Focus on expanding the copiers in the West due to their substantial profitability. 
+Reevaluate the binders in Central, potentially discontinuing or reworking the strategy to mitigate losses.
+
+Product Discontinuation
+
+GBC DocuBind P400 Electric Binding System: -$20,388
+Cubify CubeX 3D Printer Double Head Print: -$8,880
+Bush Advantage Collection Racetrack Conference Table: -$5,192
+
+Recommendation: Discontinue these high-loss products to reduce financial strain and reallocate resources to more profitable areas.
+
+Subcategory Performance
+
+Most Profitable Subcategories:
+Copiers: $76,304
+Phones: $56,053
+Accessories: $49,993
+
+Least Profitable Subcategories:
+Tables: -$23,067
+Bookcases: -$3,655
+Supplies: -$923
+
+Recommendation: Focus on promoting copiers, phones, and accessories. Consider discontinuing tables, bookcases, and supplies due to their negative profitability.
+
+Advertising Strategy
+
+Best Combinations of States and Months for Advertising:
+Indiana: October, June, December
+Rhode Island: December, October, September
+Vermont: November, April, January
+
+Recommendation: Allocate advertising budget effectively in these states and months to align with the optimal advertising spending strategy, 
+which should be approximately 1/5 of the profit.
+
+Return Rates
+
+Products with High Return Rates:
+Bush Saratoga Collection 5-Shelf Bookcase, Hanover Cherry: 100%
+Global Leather Task Chair, Black: 54.05%
+
+Customers with High Return Rates:
+Roland Murray: 50%
+Barry Franz: 37.88%
+
+Recommendation: Investigate the high return rates for both products and customers. For the Copiers sub-category, despite high average profits ($908.4), 
+the 25% return rate necessitates a thorough review to implement measures aimed at reducing returns and improving customer satisfaction.
+
+Conclusion
+
+By addressing the highlighted areas of concern, focusing on high-performing products and subcategories, optimizing advertising strategies, and managing return rates, 
+the store can enhance profitability and operational efficiency. Implementing these recommendations will contribute to a more robust and financially sustainable business model.
+
