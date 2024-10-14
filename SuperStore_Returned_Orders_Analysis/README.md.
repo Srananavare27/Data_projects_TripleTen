@@ -1,7 +1,8 @@
 # SuperStore Returned Orders Analysis and Tableau Dashboard Development
 
 ## Project Overview
-This project focuses on identifying the root causes of returned orders at SuperStore and creating a Tableau dashboard to monitor return patterns and trends. The analysis provides actionable insights to reduce return volumes and optimize profitability.
+This project focuses on identifying the root causes of returned orders at SuperStore and creating a Tableau dashboard to monitor return patterns and trends. 
+The analysis provides actionable insights to reduce return volumes and optimize profitability.
 
 ## Objective
 - Analyze correlation between total sales and return rates by product subcategory.
@@ -12,8 +13,6 @@ This project focuses on identifying the root causes of returned orders at SuperS
 
 ## Tools & Technologies Used
 - **Tableau**: For visualization and dashboard development.
-- **Excel/Google Sheets**: For data preprocessing and cleaning.
-- **SQL**: For querying and preparing data (if applicable).
 
 ## Key Insights
 - **Return Rate Analysis**: Identified subcategories with high return rates correlating with lower profit margins.
@@ -33,5 +32,5 @@ This project focuses on identifying the root causes of returned orders at SuperS
 
 ## File Structure
 - `README.md`: This file, providing an overview of the project.
-- `returned_orders_dashboard.twbx`: Tableau workbook containing the return order analysis dashboard.
-- `Executive_Summary.pdf`: A summary of the return analysis and proposed recommendations.
+- `return_analysis.twbx`: Tableau workbook containing the return order analysis dashboard.
+- `Tablue story presentation.text`: A presentation of the return analysis and proposed recommendations.
