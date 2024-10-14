@@ -1,0 +1,37 @@
+# SuperStore Returned Orders Analysis and Tableau Dashboard Development
+
+## Project Overview
+This project focuses on identifying the root causes of returned orders at SuperStore and creating a Tableau dashboard to monitor return patterns and trends. The analysis provides actionable insights to reduce return volumes and optimize profitability.
+
+## Objective
+- Analyze correlation between total sales and return rates by product subcategory.
+- Visualize return rates by product category, customer, and geographic location using Tableau.
+- Identify seasonal and customer behavior trends contributing to high return rates.
+- Develop a dynamic Tableau dashboard to track return patterns and root causes.
+- Provide actionable recommendations to reduce return rates.
+
+## Tools & Technologies Used
+- **Tableau**: For visualization and dashboard development.
+- **Excel/Google Sheets**: For data preprocessing and cleaning.
+- **SQL**: For querying and preparing data (if applicable).
+
+## Key Insights
+- **Return Rate Analysis**: Identified subcategories with high return rates correlating with lower profit margins.
+- **Geographic Trends**: Visualized high return regions to target for specific operational improvements.
+- **Seasonal Trends**: Recognized customer behaviors and seasonal factors driving return rates.
+- **Dashboard Development**: Implemented a dynamic Tableau dashboard to monitor real-time returns and performance indicators.
+
+## Instructions to View the Analysis
+1. Download the Tableau dashboard file: `returned_orders_dashboard.twbx`.
+2. Open the dashboard in Tableau Desktop and explore the interactive charts and maps.
+3. Review the story arc that explains the return trends, seasonal impacts, and actionable steps to reduce returns.
+
+## Results and Recommendations
+- Focus on improving product descriptions and shipping processes to reduce returns in high-impact regions.
+- Implement targeted marketing and customer education to reduce seasonal spikes in returns.
+- Monitor return patterns with the Tableau dashboard and adjust operational strategies accordingly.
+
+## File Structure
+- `README.md`: This file, providing an overview of the project.
+- `returned_orders_dashboard.twbx`: Tableau workbook containing the return order analysis dashboard.
+- `Executive_Summary.pdf`: A summary of the return analysis and proposed recommendations.
