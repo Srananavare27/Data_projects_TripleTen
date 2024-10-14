@@ -17,6 +17,6 @@ This project focuses on analyzing rental property data to uncover patterns in oc
 - Annual revenue estimates for active rental properties.
 
 ## Instructions to View the Analysis
-1. Download the `rental_property_analysis.xlsx` file.
+1. [Download Google sheet file here](https://docs.google.com/spreadsheets/d/1Ofm2xfOy3sB4_CVd8z4TwnK1sy7OQXpFGEtSB-GFzYk/edit?gid=647711581#gid=647711581).
 2. Open it using Google Sheets or Excel.
 3. Navigate through the analysis sheets for insights and summary.
